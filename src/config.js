@@ -1,4 +1,5 @@
 const config = {
+  MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
     REGION: "ap-south-1",
     BUCKET: "notes-app-sst-uploads",
